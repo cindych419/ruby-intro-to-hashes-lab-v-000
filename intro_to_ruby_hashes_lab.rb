@@ -15,10 +15,10 @@ def actor
 	actor = {:name => "Dwayne The Rock Johnson"}
 
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
-
 end
 
 def monopoly_with_third_tier
+	monopoly = {:railroads => {}}
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
 
 end
