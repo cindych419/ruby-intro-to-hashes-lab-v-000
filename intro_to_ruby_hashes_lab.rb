@@ -11,7 +11,7 @@ def monopoly
 
 end
 
-def monopoly_with_second_tier
+def actor
 	actor = {:name  => "Dwayne The Rock Johnson"}
 	actor[:name]
 
